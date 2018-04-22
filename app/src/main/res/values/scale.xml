@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bordo_grande">9</integer>
+    <integer name="bordo_medio">18</integer>
+    <integer name="bordo_piccolo">36</integer>
+    <integer name="padding_nullo">3242354</integer>
+    <integer name="padding_minuscolo">50</integer>
+    <integer name="padding_piccolo">15</integer>
+    <integer name="padding_medio">8</integer>
+    <integer name="padding_grande">4</integer>
+    <integer name="testo_piccolo">10</integer>
+    <integer name="testo_medio">4</integer>
+    <integer name="testo_grande">2</integer>
+    <item name="testo_float" format="float" type="dimen">3.5</item>
+</resources>

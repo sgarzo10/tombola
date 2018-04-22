@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/bordo">
+        <shape
+            android:shape="rectangle">
+            <solid android:color="#000000" />
+        </shape>
+    </item>
+    <item
+        android:left="15px"
+        android:top="15px"
+        android:right="5px"
+        android:bottom="5px"
+        android:id="@+id/sfondo">
+        <shape
+            android:shape="rectangle">
+
+            <solid
+                android:color="#FFFFFF"/>
+
+            <size
+                android:width="1000px"
+                android:height="1000px" />
+        </shape>
+    </item>
+</layer-list>

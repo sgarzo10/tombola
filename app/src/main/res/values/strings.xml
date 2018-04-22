@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tombola</string>
+    <string name="verde">verde</string>
+    <string name="annulla">annulla</string>
+    <string name="piu">piu</string>
+    <string name="meno">meno</string>
+    <string name="giro">1</string>
+    <string name="set">set</string>
+    <string name="libera">libera</string>
+    <string name="in_gioco">CASELLA IN GIOCO</string>
+    <string name="estratta">CASELLA ESTRATTA</string>
+    <string name="bordo">BORDO</string>
+    <string name="pausa">IMPOSTAZIONI PAUSA</string>
+    <string name="sfondo">SFONDO</string>
+    <string name="testo">TESTO</string>
+    <string name="r">R</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="tempo">TEMPO IN SECONDI:</string>
+    <string name="imposta">IMPOSTA</string>
+    <string name="salva">SALVA COLORE</string>
+    <string name="imposta_tempo">IMPOSTA TEMPO</string>
+    <string name="messaggio_tempo">SI RIPRENDE TRA: %1$d SECONDI</string>
+</resources>
